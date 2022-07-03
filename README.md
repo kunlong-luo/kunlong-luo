@@ -4,7 +4,7 @@ Welcome to my GitHub profile, which is the home for my open source projects. I a
 
 I am:
 
-- 👨‍👩‍👦 I live in Shenzhen, China with my family.
+- 👨‍👩‍👦 live in Shenzhen, China with my family.
 - 👔 Work on Iot related projects, and other projects.
 - 🤓 Favorite cartoon is One Piece.
 - 🎵 Electronic Music Artist.
