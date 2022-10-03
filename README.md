@@ -11,4 +11,3 @@ I am:
 - 🎵 Electronic Music Artist.
 
 ---
-![Alt](https://repobeats.axiom.co/api/embed/48cc9ff42da1617da7f891bb94c2dcb4631b1c25.svg "Repobeats analytics image")
